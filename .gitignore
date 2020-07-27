@@ -3,5 +3,6 @@
 *.pyc
 __pycache__/
 local_settings.py
-media
-/venv
+/media
+venv
+/static
